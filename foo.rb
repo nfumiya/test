@@ -7,10 +7,11 @@ end
 def third
   puts "third"
 end
-def four
-  puts "four"
+def firstbranch
+  puts "firstbranch"
 end
 first
 second
 third
-four
+firstbranch
+
